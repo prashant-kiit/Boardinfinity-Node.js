@@ -4,6 +4,7 @@ Project URL:
 GET  https://boardinfinityapp.herokuapp.com/api/list
 POST https://boardinfinityapp.herokuapp.com/api/add   - can be used only from postman
 
+To start node js project , go inside the project in command prompt and type nodemon run start
 
 
 Steps to deploy in Heroku
